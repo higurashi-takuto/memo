@@ -7,7 +7,8 @@
     "name": "Higurashi Takuto",
     "email": "contact@hgrs.me"
   },
-  "repository": "https://github.com/higurashi-takuto/memo/memo",
+  "homepage": "https://higurashi-takuto.github.io/memo",
+  "repository": "https://github.com/higurashi-takuto/memo",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
