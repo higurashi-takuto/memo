@@ -1,0 +1,19 @@
+{
+  "name": "memo",
+  "version": "0.0.1",
+  "description": "memo for me.",
+  "main": "index.js",
+  "authors": {
+    "name": "Higurashi Takuto",
+    "email": "contact@hgrs.me"
+  },
+  "repository": "https://github.com/higurashi-takuto/memo/memo",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
